@@ -55,4 +55,7 @@ const requestLogin = formData => {
       })
   }
 }
+*************************************
+* https://hackernoon.com/using-sass-with-create-react-app-without-ejecting-b5f4f827ed9e
+https://dev.to/koheishingaihq/react-with-sass-11e
 */
